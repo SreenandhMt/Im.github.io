@@ -3,7 +3,6 @@
     "short_name": "portfolio_website",
     "start_url": ".",
     "display": "standalone",
-    "homepage": "https://sreenandhmt.github.io/Im.github.io"
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
